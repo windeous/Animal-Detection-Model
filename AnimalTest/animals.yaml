@@ -1,0 +1,15 @@
+path: ../AnimalTest/yolo
+train: train/images 
+val: val/images
+names:
+ 0: Cheetah
+ 1: Crocodile
+ 2: Elephant
+ 3: Giraffe
+ 4: Hippopotamus
+ 5: Leopard
+ 6: Lion
+ 7: Monkey
+ 8: Rhinoceros
+ 9: Tiger
+ 10: Zebra
